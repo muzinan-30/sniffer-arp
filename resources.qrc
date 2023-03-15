@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/imgs">
+        <file>img/res.qrc</file>
+        <file>img/yy.png</file>
+        <file>img/10001.png</file>
+        <file>img/10002.png</file>
+    </qresource>
+</RCC>
