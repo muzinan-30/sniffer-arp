@@ -1,3 +1,7 @@
+/*
+* 本模块的功能：回调函数的实现
+* 作者：muzinan
+*/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "getthread.h"
