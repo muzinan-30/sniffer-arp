@@ -1,3 +1,7 @@
+/*
+* 本模块的功能：从网卡中得到数据并按照协议格式解析每个字段的内容
+* 作者：muzinan
+*/
 #ifndef GETTHREAD_H
 #define GETTHREAD_H
 
