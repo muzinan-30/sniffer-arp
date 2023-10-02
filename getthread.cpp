@@ -1,9 +1,10 @@
+/*
+* 本模块的功能：从网卡中得到数据并按照协议格式解析每个字段的内容
+* 作者：muzinan
+*/
 #include "getthread.h"
 #include <pcap.h>
 #include <netinet/in.h>
-#include <iostream>
-
-using namespace std;
 
 getthread::getthread(QThread *parent) : QThread(parent)
 {
